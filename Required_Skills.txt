@@ -1,0 +1,234 @@
+
+Core Skill Requirements
+Candidate must have relevant experience in in statistical / mathematical modeling, quantitative
+research, credit risk management, or related field at a reputed bank, investment or broker
+services, asset management firm, Insurance provider or a consulting firm. Wider skill requirements
+include:
+• Experience in Credit Risk Modeling PD/LGD/EAD – TTC, PIT, Stressed and
+unstressed portfolio
+• Experience in Model Development, Model Validation, Model Audit (implementation and
+execution experience will not be considered directly relevant)
+• Knowledge of one or more of global regulatory norms - CECL, IFRS 9, CCAR/DFAST,
+Basel II/III, SR-11/7, E-23 around data sufficiency, modeling methods, industry standards etc.
+• Well versed with one or more statistical techniques used in credit risk modeling –
+Logistic Regression, Time series, OLS, Probit models, Survival techniques, Tobit, Fractional
+Logistic, Beta model, State Transition Matrix, Single Factor Merton model etc. Experience in
+Machine learning algorithms like Random Forest, SVM, Neural Network etc. and Artificial
+Learning use cases such as Natural Language Processing, Robotics etc. will be a plus
+• Proficiency in one or more analytical tools such as SAS, R, Python, Matlab, Scala, VBA etc.
+Experience in Data Science and cloud based analytics platform will be a plus
+• Understanding of credit risk metrics like RWA, Expected loss, Regulatory and Economic
+capital, OTTI, Watchlist, Asset quality etc.
+• Conceptual understanding of the data and methodology used for credit risk regulatory models
+• Leveraging experiential know-how of a wide range of loan types, including C&I, CRE, RRE, ABL,
+Leasing, Credit Card, Vehicle, Personal etc.
+• Prior experience in domains like commercial banking, retail banking, treasury, investment
+management and strong knowledge of risk data analysis and development, strategy design and
+delivery deployment.
+• Vendor Experience
+o Experience in bureau data from credit unions e.g. D&B, Experian, Equifax, Transunion
+o Experience in vendor models and ratings like Fitch, Credit pro, Moody etc.
+o Knowledge about external / benchmark models on consumer portfolios is a plus (FICO
+Score, Standards and Poor's, Fitch or Moody's Ratings)
+o Selecting, implementing and/or using commercial credit risk workflow, analytics- e.g.,
+Moody's KMV, S&P and/or, reporting technologies- e.g., Oracle, Cognos, et al.
+
+ 
+Hi Candidate,
+
+I came across your profile and noticed that you have the professional expertise that seems to be a great fit for an exciting new role.
+
+We are currently hiring for CCAR/CECL Model Development Role. Would you be open to have a preliminary discussion about an opportunity that could offer a significant career move? I am sharing the JD below for your ref. 
+
+Responsibilities:
+
+- This CECL modeler role will play a critical role in supporting the Loss Forecasting and Reserve for the credit card portfolio.
+- Perform portfolio risk evaluation and credit loss forecasting with a comprehensive understanding of relevant model techniques, business operations, and risk compliance requirements
+- Conduct monthly credit loss forecast by using econometric/statistical/non-statistical models with portfolio performance data and other external factors
+- Develop and update monthly loss forecasting and CECL reserve reports and presentations for senior managements
+- Improve forecasting methodologies and techniques through conducting deep dive analytics and leveraging industry expertise
+- Collaborate with various business units to understand and solve business problems
+
+
+Job description ( Credit risk Modeling)
+
+Experience: 2-10 years
+
+Designation:Lead AM/Manager/Sr Manager/ ProjectManager/AVP
+
+Mandate: Credit risk modeling,Model Development/Validation, Risk Management,SAS/SQL, Python
+
+Location: Pune & Bangalore
+
+Mode- WFH (Till further notice)
+
+
+
+Job Description
+
+Roles and Responsibilities
+
+·       Lead and Manage Model monitoring , Validation & other regulatory activities related to IFRS9, ST and ECL models for all Wholesale portfolios across the Globe.
+
+·       Support regulatory and audit submissions as on when required.
+
+·       The individual is also required to work on key projects within the Model Monitoring function and drive changes as  on when required.
+
+You would need to:
+
+·       Interface with senior stakeholders across Wholesale Risk
+
+·       Multitask on simultaneous engagements on controls & governance activities for Wholesale Credit Risk
+
+·       Work closely with senior regional team members in executing specific tasks and projects.
+
+ 
+
+Skills/Experience Required:
+
+·       At least 3-4 years of work experience related to Credit Risk within Financial domain with expertise in IFRS9 PD, EAD and LGD model development or monitoring
+
+·       At least Master's degree in Mathematics, Statistics, Economics, Engineering, Computer Science, Management or other quantitative fields of study
+
+·       Proficiency in SAS /SQL/ Python, JavaScript and MS Office tools like Excel & PowerPoint is preferable
+
+·       Business problem solving skills is essential
+
+
+Years of prior analytics experience (Preferably risk)
+
+·  SQL & Python (Must have)
+
+·  Good understanding of credit risk models – application, behavioral, income imputation , customer stability models
+
+·         End to end understanding of model development methodology : feature creation, development and monitoring and creating strategies
+
+·  Should be able to understand client requirements and come up with the solutions like developing models, devising strategies etc.
+
+·  Banking Exposure (Good to have)
+
+·  Superior verbal and written communications skills with extreme attention-to-detail
+
+·  Would prefer folks with shorter notice period or immediate joiners
+
+Skills:
+
+Must have: 
+Knowledge and hands on experience with programming in SAS
+Prior Experience /Proficiency in the Statistical modeling concepts and advanced modeling techniques like- Regression/ Decision trees etc.
+ 
+
+Good to have 
+Banking/ Credit Card domain knowledge
+Experience in any Regulatory modeling frameworks- CCAR/CECL/IFRS
+Candidate Profile:
+
+ 
+
+Bachelor’s/Master's degree in economics, mathematics, actuarial sciences, computer science/engineering, operations research or related analytics areas; candidates with BA/BS degrees in the same fields from the top tier academic institutions are also welcome to apply
+Candidates with strong model development experience in banking/ credit card domain will be preferred
+Strong and in-depth understanding of statistical tools like Regression, Decision Trees
+Data analysis experience (1- 5 years)
+Superior analytical and problem solving skills
+Outstanding written and verbal communication skills
+Strong interpersonal communication skills with multiple stakeholder management 
+Strong track record of delivery
+Able to work in fast pace continuously evolving environment and ready to take up challenges
+Able to understand cross cultural differences and can work with clients across the globe
+
+
+Work hands-on to validate models and bring in thought leadership and domain/quantitative
+best practices to present effective challenge to the models
+ End-to-end independent validation of credit risk and regulatory models, including
+but not limited to – PD, LGD, EAD, Stress Testing, CECL, Credit Scorecards, AML
+and counter fraud models etc.
+ Conduct first time (baseline), change based and annual validation
+ Assess the models conceptually and quantitatively to ensure the model is suitable
+for the stated use
+ Conduct necessary assessments to challenge the model effectively. Assess adequacy
+of model documentation in line with regulatory guidelines
+ Validation for the source data quality, forecast data quality as well as change
+management
+ Development of benchmark models using statistical/Machine Learning technique.
+ Assessment of the model monitoring and implementation process. Assessment of
+the model calibration techniques
+ Prepare model validation report summarizing findings and provide
+recommendations and risk rate the models
+
+ Master’s degree or higher in Finance, Mathematics, Economics, Statistics, or
+equivalent experience
+ Hands on experience in portfolio analytics/predictive modeling/independent
+validation of models
+ Experience in BFS analytics, with experience in credit risk
+analytics/modeling/independent validation of models (Regression, Logistic
+Regression, Time series, Clustering, CHAID/Classification trees, Time Series,
+Competing Risk, Survival Models, Markov TPM, scorecards, etc.)
+ Experience in retail and wholesale credit risk models is a plus
+ Understanding of and experience in regulatory risk modeling/validation – SR 11-7,
+CECL, IFRS 9, CCAR, Basel IRB.
+ Hands on expertise in Excel, SAS &amp; Python/R
+ Strong communication/presentation skills – written &amp; verbal
+ Self-driven, proactive, “can-do” attitude. Ability to work under ambiguity and with
+minimal supervision.
+
+
+
+Qualifications
+
+- 3+ years of relevant experience
+- Proficiency in SQL, R/Python and Excel
+- Proven ability to remain organized in a fast-paced environment and manage multiple projects
+- Proven interpersonal, organizational and analytic skills.
+
+ Location: Mumbai, Bangalore, Delhi
+ Designation: Hiring is across levels
+ Must have skill set:
+ Should have prior experience in model development, model validation or model monitoring with a
+GSIB or Indian banks
+ Good understanding of:
+o Credit Risk Model Development steps starting with exploratory data analysis, roll rate,
+vintage analysis, good/bad definitions, factor selections, logistic/ linear regressions including
+assumptions and limitations, scorecard calibration
+o Credit Risk Model Validation starting from data preparation and analysis, validation tests,
+back testing, scenario analysis, sensitivity analysis
+o Market Risk Model Development or Validation experience covering
+ VaR modeling and validation/back-testing (historical full revaluation, Taylor var
+approximation (delta gamma method), Monte Carlo) for linear instruments and
+derivative products
+ Pricing (linear instruments and Derivatives)
+ Curve construction and calibration
+ MR Capital computation (Standardised approach/IMA/FRTB)
+ Economic Capital computation
+o Sound knowledge of IRB, IFRS 9, CECL, CCAR, SR-11-7, TRIM, CRD, CRR guidelines
+o Time Series analysis and forecasting
+o Knowledge around ML techniques such as Random Forest, Decision Trees, and various other
+Supervised and Unsupervised Learning algorithms (this is optional)
+o Knowledge around regulations by BCBS, US FED, FINMA, PRA, BAFIN, OECD
+ Must have techno-functional skills around R, Python, SAS, SQL, VBA (having knowledge of at least
+one is mandatory)
+ Preparation of model documentation, model monitoring plans, model validation reports
+ Should be open for travelling
+ Should have good communication skills (English)
+ Experience can be between 3-8 years
+
+Experience: 3-5 years of Experience
+Job Responsibilities
+● Use of Statistical/ Predictive modeling techniques for credit risk
+● Solid analytical & problem-solving skills
+● Ability to isolate & solve issues using large amounts of data
+● Strong understanding of financial loan system(s) &amp; credit products
+● Strong conceptual & technical knowledge of risk concepts &amp; quantitative modeling
+techniques
+● Ability to develop & validate statistical models for assessing risk involved in extending
+credit (PD, LGD, EAD)
+● Experience of handling unstructured data in large volume, is a strong plus
+● Experience of applying machine learning techniques like support vector machines,
+gradient boosting method, Neural Networks, KNN etc., is a strong plus.
+● Active participant in the quantitative analytical processes for credit risk.
+● Ensure regular production of analytical work &amp; reports. Act as an important contact
+for credit risk models with Internal stakeholders.
+● Works with senior team members to evaluate existing processes in relation to corporate
+objectives & industry leading practices. Assess development needs & manage process
+to achieve desired future state
+● Advanced degree in related field (math, statistics or economics)
+● Expert level knowledge of analytical tools like SAS/ R/ Python/ Advanced Excel
