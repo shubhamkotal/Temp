@@ -232,3 +232,11 @@ objectives & industry leading practices. Assess development needs & manage proce
 to achieve desired future state
 ● Advanced degree in related field (math, statistics or economics)
 ● Expert level knowledge of analytical tools like SAS/ R/ Python/ Advanced Excel
+PIT LGD = Downturn LGD * (1 - exp(-β * Φ)),
+
+where:
+
+PIT LGD represents the Point in Time Loss Given Default.
+Downturn LGD denotes the LGD estimated during an economic downturn.
+β is a parameter that captures the sensitivity of LGD to the economic cycle.
+Φ represents a macroeconomic variable that reflects the state of the economy.
