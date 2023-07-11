@@ -240,3 +240,7 @@ PIT LGD represents the Point in Time Loss Given Default.
 Downturn LGD denotes the LGD estimated during an economic downturn.
 β is a parameter that captures the sensitivity of LGD to the economic cycle.
 Φ represents a macroeconomic variable that reflects the state of the economy.
+
+
+Credit risk notes:
+https://docs.google.com/document/d/1zoBCqrdjy8HJcfvrjh5R-0eMox7f1H7CW9eLrV6YfWE/edit?pli=1
