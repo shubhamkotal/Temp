@@ -244,3 +244,18 @@ Downturn LGD denotes the LGD estimated during an economic downturn.
 
 Credit risk notes:
 https://docs.google.com/document/d/1zoBCqrdjy8HJcfvrjh5R-0eMox7f1H7CW9eLrV6YfWE/edit?pli=1
+
+Certainly, based on the early warning analysis using 30DPD and 60DPD, it's recommended to closely monitor the performance results, as there is an early indication of breach using the lower 30DPD threshold. While the actual performance is assessed using 90DPD, the discrepancies observed at the lower DPD levels could serve as valuable early alerts. This proactive approach will enable timely intervention and necessary measures to address potential issues before they escalate further.
+
+
+Sure, it's advisable to pay close attention to the early warning analysis results based on 30DPD and 60DPD thresholds. Although the actual performance is evaluated using 90DPD, the breach observed at 30DPD suggests the need for vigilant monitoring. This will help in promptly identifying issues and taking necessary actions to prevent any escalation.
+
+
+
+Absolutely, here's a more detailed explanation:
+
+While the primary evaluation of actual performance is typically done using the 90-day past due (90DPD) metric, recent early warning analysis using the 30-day past due (30DPD) and 60-day past due (60DPD) metrics has revealed a breach in the established thresholds. It's important to note that the 30DPD and 60DPD levels are not the definitive measures of performance but serve as crucial indicators of potential issues.
+
+Despite not being the exact parameters for assessment, the breach observed at the 30DPD level is significant as it indicates an early warning sign. This suggests that the performance may not be satisfactory even before reaching the standard 90DPD threshold. Consequently, it's highly recommended to closely monitor the performance based on the early warning analysis.
+
+By keeping a vigilant eye on the early indications provided by the 30DPD and 60DPD metrics, the organization can benefit from proactive alerts about potential performance issues. This approach enables timely intervention and the implementation of necessary measures to address and mitigate issues before they escalate to the point of breaching the 90DPD threshold.
