@@ -259,3 +259,5 @@ While the primary evaluation of actual performance is typically done using the 9
 Despite not being the exact parameters for assessment, the breach observed at the 30DPD level is significant as it indicates an early warning sign. This suggests that the performance may not be satisfactory even before reaching the standard 90DPD threshold. Consequently, it's highly recommended to closely monitor the performance based on the early warning analysis.
 
 By keeping a vigilant eye on the early indications provided by the 30DPD and 60DPD metrics, the organization can benefit from proactive alerts about potential performance issues. This approach enables timely intervention and the implementation of necessary measures to address and mitigate issues before they escalate to the point of breaching the 90DPD threshold.
+
+https://www.linkedin.com/posts/shubhamkotal_credit-risk-bankingindustry-activity-7101553505034776576-eoPA?utm_source=share&utm_medium=member_desktop
