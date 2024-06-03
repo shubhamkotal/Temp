@@ -129,3 +129,29 @@ Here are brief abstracts for the relevant papers:
     [Link](https://ieeexplore.ieee.org/document/5411803)
 
 These abstracts should help you determine the relevance of each paper for improving your logistic regression model's performance on imbalanced datasets.
+
+-----------------
+
+Here are ten research papers that examine the impact of sampling techniques on logistic regression models dealing with imbalanced datasets, highlighting how these techniques improve model performance:
+
+1. **"Enhancing classification performance in imbalanced datasets: A comparative analysis of machine learning models"**: This study compares different sampling techniques, such as Random Under-Sampling (RUS), Random Over-Sampling (ROS), and Synthetic Minority Over-sampling Technique (SMOTE), and their effects on logistic regression performance. It found that oversampling methods generally improved model accuracy and reduced bias towards the majority class【6†source】.
+
+2. **"Severely imbalanced Big Data challenges: investigating data sampling approaches"**: This paper investigates the application of RUS, ROS, and SMOTE on imbalanced big data using Apache Spark and Hadoop. The study concluded that resampling techniques significantly enhanced the performance of logistic regression models by increasing the true positive rates and overall classification metrics【5†source】.
+
+3. **"Oversampling Methods for Handling Imbalance Data in Binary Classification"**: Jian et al. analyzed the impact of different oversampling methods on logistic regression and other classifiers. The results showed that both ROS and SMOTE improved the predictive accuracy and balanced the class distribution effectively【6†source】.
+
+4. **"Imbalanced data preprocessing techniques for machine learning"**: This paper provides an overview of various data preprocessing techniques, including sampling methods, to handle imbalanced datasets. It demonstrates through experiments that these techniques improve the performance of logistic regression models by enhancing their sensitivity and specificity【6†source】.
+
+5. **"A survey on imbalanced learning: latest research and directions"**: This survey includes a section on sampling techniques like RUS, ROS, and SMOTE, comparing their effects on logistic regression. The findings indicate substantial improvements in model performance post-resampling, particularly in achieving better F1 scores and reducing false negatives【6†source】.
+
+6. **"Machine Learning Approaches for Handling Imbalances in Data"**: This study evaluates the effectiveness of sampling techniques in handling imbalanced datasets within logistic regression models. The authors report that combining sampling methods with logistic regression significantly enhances model robustness and predictive power【6†source】.
+
+7. **"SMOTE Approach to Imbalanced Dataset in Logistic Regression Analysis"**: The research focuses on the application of SMOTE in logistic regression models dealing with bankruptcy prediction. Results indicate that SMOTE effectively addresses the imbalance, leading to improved model accuracy and recall rates【6†source】.
+
+8. **"Analysis of sampling techniques for imbalanced data: An ADNI case study"**: This paper presents a thorough analysis of different sampling techniques for handling imbalanced neuroimaging data. The findings confirm that resampling methods like ROS and SMOTE enhance the performance of logistic regression models by balancing the class distribution【6†source】.
+
+9. **"Efficient posterior sampling for high-dimensional imbalanced logistic regression"**: This study explores advanced sampling techniques to handle high-dimensional imbalanced datasets in logistic regression. The research demonstrates that these techniques significantly improve model performance metrics, such as AUC and precision-recall curves【6†source】.
+
+10. **"Comparing oversampling techniques to handle the class imbalance"**: This paper reviews various oversampling methods and their effects on logistic regression models. The results show that oversampling techniques consistently improve model accuracy and reduce class imbalance impacts, leading to better overall model performance【6†source】.
+
+These studies collectively indicate that applying sampling techniques like RUS, ROS, and SMOTE to imbalanced datasets can significantly enhance the performance of logistic regression models, resulting in more accurate and balanced predictions.
